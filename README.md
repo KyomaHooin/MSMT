@@ -8,4 +8,5 @@ VZ SIEM
 1.4.   - Studium dokumentace, tel. konzultace VZ SIEM.; 3H
 2.4.   - Studium dokumentace / zaver.; 1H
 6.4    - Tel. konzultace; 1H
-</pre>
+7.4    - Videokonference/ HW analyza; 1.5H
+8.</pre>
