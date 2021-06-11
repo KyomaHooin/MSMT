@@ -11,4 +11,5 @@ VZ SIEM
 7.4    - Videokonference/ HW analyza; 1.5H
 18.5.  - Telekonference; 1H
 21.5.  - Telekonference; 1H
+11.6.  - Telekonference; 1H
 </pre>
